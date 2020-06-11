@@ -4,5 +4,35 @@
     "name": "Spaghetti",
     "img": "spaghetti",
     "link": "https://spoonacular.com/recipes/spaghetti-with-bolognese-sauce-660820"
+  },
+  {
+    "id": 2,
+    "name": "Burger",
+    "img": "burger",
+    "link": "https://spoonacular.com/recipes/blue-cheese-burgers-635350"
+  },
+  {
+    "id": 3,
+    "name": "Garlic Bread",
+    "img": "garlic bread",
+    "link": "https://spoonacular.com/recipes/easy-cheesy-garlic-bread-715559"
+  },
+  {
+    "id": 4,
+    "name": "Pizza",
+    "img": "pizza",
+    "link": "https://spoonacular.com/recipes/elk-italian-sausage-pizza-with-ricotta-cheese-saut%C3%A9d-mushrooms-and-onion-642371"
+  },
+  {
+    "id": 5,
+    "name": "Shrimp",
+    "img": "shrimp",
+    "link": "https://spoonacular.com/recipes/garlic-lemon-pepper-shrimp-salad-clean-eating-796684"
+  },
+  {
+    "id": 6,
+    "name": "Baked Chicken",
+    "img": "chicken",
+    "link": "https://spoonacular.com/recipes/baked-chicken-with-lemon-garlic-633541"
   }
 ]
