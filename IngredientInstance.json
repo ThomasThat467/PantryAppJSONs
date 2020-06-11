@@ -4,79 +4,27 @@
     "ingredientID": 1,
     "amount": 2,
     "unit": "lbs",
-    "expiration": {
-      "chronology":{
-        "calendarType":"iso8601",
-        "id":"ISO"
-      },
-      "dayOfMonth":20,
-      "dayOfWeek":"SATURDAY",
-      "dayOfYear":172,
-      "era":"CE",
-      "month":"JUNE",
-      "monthValue":6,
-      "year":2020,
-      "leapYear":true
-    }
+    "expiration": "2020-06-12"
   },
   {
     "instanceID": 2,
     "ingredientID": 5,
     "amount": 24,
     "unit": "oz",
-    "expiration": {
-      "chronology" : {
-        "calendarType" : "iso8601",
-        "id" : "ISO"
-      },
-      "dayOfMonth" : 21,
-      "dayOfWeek" : "SUNDAY",
-      "dayOfYear" : 173,
-      "era" : "CE",
-      "month" : "JUNE",
-      "monthValue" : 6,
-      "year" : 2020,
-      "leapYear" : true
-    }
+    "expiration": "2020-06-13"
   },
   {
     "instanceID": 3,
     "ingredientID": 6,
     "amount": 1,
     "unit": "oz",
-    "expiration": {
-      "chronology" : {
-        "calendarType" : "iso8601",
-        "id" : "ISO"
-      },
-      "dayOfMonth" : 22,
-      "dayOfWeek" : "MONDAY",
-      "dayOfYear" : 174,
-      "era" : "CE",
-      "month" : "JUNE",
-      "monthValue" : 6,
-      "year" : 2020,
-      "leapYear" : true
-    }
+    "expiration": "2020-06-14"
   },
   {
     "instanceID": 4,
     "ingredientID": 3,
     "amount": 20,
     "unit": "cloves",
-    "expiration": {
-      "chronology" : {
-        "calendarType" : "iso8601",
-        "id" : "ISO"
-      },
-      "dayOfMonth" : 23,
-      "dayOfWeek" : "TUESDAY",
-      "dayOfYear" : 175,
-      "era" : "CE",
-      "month" : "JUNE",
-      "monthValue" : 6,
-      "year" : 2020,
-      "leapYear" : true
-    }
+    "expiration": "2020-06-15"
   }
 ]
