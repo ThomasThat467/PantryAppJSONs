@@ -4,27 +4,27 @@
     "ingredientID": 1,
     "amount": 2,
     "unit": "lbs",
-    "expiration": "2020-06-20"
+    "expString": "2020-06-20"
   },
   {
     "instanceID": 2,
     "ingredientID": 5,
     "amount": 24,
     "unit": "oz",
-    "expiration": "2020-06-21"
+    "expString": "2020-06-21"
   },
   {
     "instanceID": 3,
     "ingredientID": 6,
     "amount": 0.75,
     "unit": "oz",
-    "expiration": "2020-06-22"
+    "expString": "2020-06-22"
   },
   {
     "instanceID": 4,
     "ingredientID": 3,
     "amount": 20,
     "unit": "cloves",
-    "expiration": "2020-06-23"
+    "expString": "2020-06-23"
   }
 ]
